@@ -1,0 +1,231 @@
+{
+    "sourceLanguage" : "en",
+    "strings" : {
+        "price_format" : {
+            "extractionState" : "manual",
+            "localizations" : {
+                "en" : {
+                    "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "%@ $"
+                    }
+                },
+                "de" : {
+                    "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "%@ €"
+                    }
+                }
+            }
+        },
+        "Appetizers" : {
+            "extractionState" : "manual",
+            "localizations" : {
+                "de" : {
+                    "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Vorspeisen"
+                    }
+                }
+            }
+        },
+        "Brownie" : {
+            "extractionState" : "manual",
+            "localizations" : {
+                "de" : {
+                    "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Brownie"
+                    }
+                }
+            }
+        },
+        "Cheeseburger" : {
+            "extractionState" : "manual",
+            "localizations" : {
+                "de" : {
+                    "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Cheeseburger"
+                    }
+                }
+            }
+        },
+        "Cheesecake" : {
+            "extractionState" : "manual",
+            "localizations" : {
+                "de" : {
+                    "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Käsekuchen"
+                    }
+                }
+            }
+        },
+        "Chicken Wings" : {
+            "extractionState" : "manual",
+            "localizations" : {
+                "de" : {
+                    "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Hühnerflügel"
+                    }
+                }
+            }
+        },
+        "Chocolate Cake" : {
+            "extractionState" : "manual",
+            "localizations" : {
+                "de" : {
+                    "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Schokoladenkuchen"
+                    }
+                }
+            }
+        },
+        "Coffee" : {
+            "extractionState" : "manual",
+            "localizations" : {
+                "de" : {
+                    "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Kaffee"
+                    }
+                }
+            }
+        },
+        "Coke" : {
+            "extractionState" : "manual",
+            "localizations" : {
+                "de" : {
+                    "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Cola"
+                    }
+                }
+            }
+        },
+        "Desserts" : {
+            "extractionState" : "manual",
+            "localizations" : {
+                "de" : {
+                    "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Nachspeisen"
+                    }
+                }
+            }
+        },
+        "Drinks" : {
+            "extractionState" : "manual",
+            "localizations" : {
+                "de" : {
+                    "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Getränke"
+                    }
+                }
+            }
+        },
+        "Fresh Lemonade" : {
+            "extractionState" : "manual",
+            "localizations" : {
+                "de" : {
+                    "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Frische Limonade"
+                    }
+                }
+            }
+        },
+        "Garlic Bread" : {
+            "extractionState" : "manual",
+            "localizations" : {
+                "de" : {
+                    "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Knoblauchbrot"
+                    }
+                }
+            }
+        },
+        "Grilled Chicken Sandwich" : {
+            "extractionState" : "manual",
+            "localizations" : {
+                "de" : {
+                    "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Gegrilltes Hähnchensandwich"
+                    }
+                }
+            }
+        },
+        "Iced Tea" : {
+            "extractionState" : "manual",
+            "localizations" : {
+                "de" : {
+                    "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Eistee"
+                    }
+                }
+            }
+        },
+        "Main Courses" : {
+            "extractionState" : "manual",
+            "localizations" : {
+                "de" : {
+                    "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Hauptgerichte"
+                    }
+                }
+            }
+        },
+        "Meatballs with Mashed Potatoes" : {
+            "extractionState" : "manual",
+            "localizations" : {
+                "de" : {
+                    "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Fleischbällchen mit Kartoffelpüree"
+                    }
+                }
+            }
+        },
+        "Menu" : {
+            "localizations" : {
+                "de" : {
+                    "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Menü"
+                    }
+                }
+            }
+        },
+        "Mozzarella Sticks" : {
+            "extractionState" : "manual",
+            "localizations" : {
+                "de" : {
+                    "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Mozzarella-Sticks"
+                    }
+                }
+            }
+        },
+        "Spaghetti Bolognese" : {
+            "extractionState" : "manual",
+            "localizations" : {
+                "de" : {
+                    "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "Spaghetti Bolognese"
+                    }
+                }
+            }
+        }
+    },
+    "version" : "1.0"
+}
